@@ -47,14 +47,14 @@ python win_probabilities.py falcons natus-vincere --best-of 3
 ==============================
   Falcons vs Natus Vincere (BO3)
 ==============================
-  Falcons win:        58.3%
-  Natus Vincere win:  41.7%
+  Falcons win: 61.9%
+  Natus Vincere win: 38.1%
 ──────────────────────────────
- outcome     n      p
-      2-0  2032  0.203
-      2-1  2471  0.247
-      1-2  2826  0.283
-      0-2  1671  0.267
+outcome    n       p
+    2-0 6600 0.33000
+    2-1 5785 0.28925
+    1-2 4091 0.20455
+    0-2 3524 0.17620
 ==============================
 ```
 
